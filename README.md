@@ -15,14 +15,14 @@
   - [Microsoft office 365](https://camo.githubusercontent.com/cf337c4e3707c542562f62b6cf7a2a2353fd85b7d65d0354c4a781703cda26ad/68747470733a2f2f692e696d6775722e636f6d2f486443336758722e706e67) <b><i>(Potentially NSFW)</b></i>
   - [Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67) <b><i>(Potentially NSFW)</b></i>
 - <b>SIEM</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [lab1]()
+  - [lab2]()
+  - [lab3]()
+  - [lab4]()
 - <b>IDS/IPS</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [lab1]()
+  - [lab2]()
+  - [lab3]()
 - <b>SPLUNK</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
