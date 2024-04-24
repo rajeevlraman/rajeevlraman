@@ -10,9 +10,9 @@
   - [Proxmox](https://camo.githubusercontent.com/76f3c54ab7aaf1a16446db8c1342ecc1daa22a27ca1f60b5015cad9a08f23937/68747470733a2f2f692e696d6775722e636f6d2f674374316337662e706e67) <b><i>(Potentially NSFW)</b></i>
   - [Hyper-V](https://camo.githubusercontent.com/c342e1f19d8d195edb5ae26adc78ad2f38f2d4d0824cc9bbc2b8fedb7da75d14/68747470733a2f2f692e696d6775722e636f6d2f6b7942444f4c692e706e67) <b><i>(Potentially NSFW)</b></i>
 - <b>Cloud Services</b>
-  - [Microsoft Azure AD](https://github.com/rajeevlraman/CloudServices/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
-  - [Microsoft Entra ID](https://github.com/rajeevlraman/CloudServices/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
-  - [Microsoft office 365](https://github.com/rajeevlraman/CloudServices/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
+  - [Microsoft Azure AD](https://camo.githubusercontent.com/3eb9cb729638177c30c357ac03d593b8fcbb555097c4b21834020f57a612c0bb/68747470733a2f2f692e696d6775722e636f6d2f6c56716552646f2e706e67) <b><i>(Potentially NSFW)</b></i>
+  - [Microsoft Entra ID](https://camo.githubusercontent.com/7226367204999fa5bdbe824372de69f124e0d70c067396de494b3d70a3271d39/68747470733a2f2f692e696d6775722e636f6d2f6f46385875544a2e706e67) <b><i>(Potentially NSFW)</b></i>
+  - [Microsoft office 365](https://camo.githubusercontent.com/cf337c4e3707c542562f62b6cf7a2a2353fd85b7d65d0354c4a781703cda26ad/68747470733a2f2f692e696d6775722e636f6d2f486443336758722e706e67) <b><i>(Potentially NSFW)</b></i>
 - <b>SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
