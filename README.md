@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rajeev <br/><a href="https://github.com/joshmadakor1">Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">My linkedin</a></h1>
+<h1>Hi, I'm Rajeev <br/><a href="">I am a Technician</a> <a href="">and a Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Home-Lab Projects:</h2>
 
