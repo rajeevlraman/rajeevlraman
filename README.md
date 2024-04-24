@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home-Lab Projects:</h2>
 
 - <b>Settin up a Home-Lab</b>
-  - [Hardware and configuration](https://github.com/rajeevlraman/Homelab/tree/main)
+  - [Home-Lab Overview](https://github.com/rajeevlraman/Homelab/tree/main)
 - <b>Virtualization</b>
   - [Virtual Box](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [VM Ware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
