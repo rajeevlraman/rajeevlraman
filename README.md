@@ -4,18 +4,23 @@
 
 - <b>Settin up a Home-Lab</b>
   - [Hardware and configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtualization</b>
+  - [Virtual Box](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [VM Ware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Proxmox](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Hyper-V](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Azure AD (Setup Azure AD, Create Tenants, Create Honeypot)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>IDS/IPS</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>SPLUNK</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
