@@ -16,7 +16,7 @@
   - [Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67) <b><i>(Potentially NSFW)</b></i>
 - <b>SIEM</b>
   - [Security Onion](https://camo.githubusercontent.com/f1695499f90aae98fb45dcb267afd49fcd267c85a782967c947f9960273523df/68747470733a2f2f692e696d6775722e636f6d2f417070734876662e706e67)
-  - [Splunk]()
+  - [Splunk](https://camo.githubusercontent.com/baf82611796117f4b055262cb156fa96a9333a6d3fc389dd00edac80e9d41d28/68747470733a2f2f692e696d6775722e636f6d2f656a524b4c36732e706e67)
 - <b>IDS/IPS</b>
   - [Pfsense]()
   - [Snort]()
