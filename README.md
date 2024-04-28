@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rajeev <br/><a href="">I am a Technician</a> <a href="">and a Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Home-Lab Projects:</h2>
+<h2>👨‍💻 Home-Lab Activities:</h2>
 
 - <b>Setting up a Home-Lab</b>
   - [Home-Lab Overview](https://github.com/rajeevlraman/Homelab/tree/main)
