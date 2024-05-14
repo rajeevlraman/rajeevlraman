@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rajeev <br/><a href="">I am a Maintenance Technician</a> <a href=""> and a Cybersecurity Enthusiast <br> I am Pursuing a career in Cyber Security </a></h1>
+<h1>Hi, I'm Rajeev <br/><a href="">I am a Technician</a> <a href=""> and a Cybersecurity Enthusiast <br> I am Pursuing a career in Cyber Security </a></h1>
 
 <h2>👨‍💻 Home-Lab Activities:</h2>
 
