@@ -15,7 +15,7 @@
   - [Microsoft Entra ID](https://camo.githubusercontent.com/7226367204999fa5bdbe824372de69f124e0d70c067396de494b3d70a3271d39/68747470733a2f2f692e696d6775722e636f6d2f6f46385875544a2e706e67) <b><i></b></i>
   - [Microsoft office 365](https://camo.githubusercontent.com/cf337c4e3707c542562f62b6cf7a2a2353fd85b7d65d0354c4a781703cda26ad/68747470733a2f2f692e696d6775722e636f6d2f486443336758722e706e67) <b><i></b></i>
   - [Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67) <b><i></b></i>
-  - [Microsoft Privileged Identity Management ](https://github.com/rajeevlraman/Microsoft_Enterprise_Mobility_Security)
+  - [Microsoft Privileged Identity Management ](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security)
 - <b>SIEM  </b></b>[ home page ](https://github.com/rajeevlraman/SIEM)
   - [Security Onion](https://camo.githubusercontent.com/f1695499f90aae98fb45dcb267afd49fcd267c85a782967c947f9960273523df/68747470733a2f2f692e696d6775722e636f6d2f417070734876662e706e67)
   - [SIEM Lab using ELASTIC](https://github.com/rajeevlraman/Homelabv2/tree/main)
