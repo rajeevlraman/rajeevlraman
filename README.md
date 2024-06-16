@@ -20,7 +20,7 @@
   - [Security Onion](https://github.com/rajeevlraman/SIEM/blob/main/assets/Securityonion.md)
   - [SIEM Lab using ELASTIC](https://github.com/rajeevlraman/Elastic-SIEM)
   - [Splunk](https://github.com/rajeevlraman/SIEM/blob/main/assets/SplunkEnterprise.md)
-- <b>IDS/IPS  </b>[ home page ](https://github.com/rajeevlraman/IDS-IPS)
+- <b>IDS/IPS  </b>[ Overview ](https://github.com/rajeevlraman/IDS-IPS)
   - [Pfsense](https://camo.githubusercontent.com/c33845ad2fd578c6f7c646972fcfb06674a0311558d867b1929919259bfac2ef/68747470733a2f2f692e696d6775722e636f6d2f334f36586e39312e706e67)
   - [Snort](https://camo.githubusercontent.com/2dcf8d87b8eccc33adb286621983cc1fa155f30838ab8600a6463c56bc935904/68747470733a2f2f692e696d6775722e636f6d2f455946543351392e706e67)
 
