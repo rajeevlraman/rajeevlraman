@@ -14,6 +14,10 @@
   - [Proxmox](https://github.com/rajeevlraman/Virtualization/blob/main/assets/Proxmox.md) <b><i></b></i>
   - [Hyper-V](https://github.com/rajeevlraman/Virtualization/blob/main/assets/Hyper-V.md) <b><i></b></i><br><br>
 - <b>Windows Active Directory </b>[ Overview ](https://github.com/rajeevlraman/ActiveDirectory)<br><br>
+  - [Creating a Active Directory]()
+  - [Creating organizational units]()
+  - [Creating Users]()
+  - [Creating Group Policies]()<br><br>
 - <b>Cloud Services  </b></b>[ Overview ](https://github.com/rajeevlraman/CloudServices)<br>
   - [Microsoft Azure AD admin centre ](https://camo.githubusercontent.com/3eb9cb729638177c30c357ac03d593b8fcbb555097c4b21834020f57a612c0bb/68747470733a2f2f692e696d6775722e636f6d2f6c56716552646f2e706e67) <b><i></b></i>
   - [Microsoft Entra admin centre](https://camo.githubusercontent.com/7226367204999fa5bdbe824372de69f124e0d70c067396de494b3d70a3271d39/68747470733a2f2f692e696d6775722e636f6d2f6f46385875544a2e706e67) <b><i></b></i>
