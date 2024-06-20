@@ -22,7 +22,7 @@
   - [Microsoft Privileged Identity Management ](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security)<br><br>
 - <b>SIEM  </b></b>[ overview ](https://github.com/rajeevlraman/SIEM)<br>
   - [Security Onion](https://github.com/rajeevlraman/SIEM/blob/main/assets/Securityonion.md)
-  - [Splunk IDS for Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Securityonion.md)
+  - [Splunk IDS for Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)
   - [SIEM Lab using ELASTIC](https://github.com/rajeevlraman/Elastic-SIEM)
   - [Splunk](https://github.com/rajeevlraman/SIEM/blob/main/assets/SplunkEnterprise.md)<br><br>
 - <b>IDS/IPS  </b>[ Overview ](https://github.com/rajeevlraman/IDS-IPS)<br>
