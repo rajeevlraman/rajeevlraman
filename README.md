@@ -7,7 +7,7 @@
 
 - <b>Setting up a Home-Lab</b>
   - [Home-Lab Overview](https://github.com/rajeevlraman/Homelab/tree/main)<br>
-  - [HomelabV2 Overview](https://github.com/rajeevlraman/Homelabv2/tree/main)<br><br>
+  - [HomelabV2 Overview](https://github.com/rajeevlraman/HomelabV2/blob/main/README.md)<br><br>
 - <b>Virtualization  </b>[ Overview ](https://github.com/rajeevlraman/Virtualization/blob/main/README.md)<br><br>
   - [Virtual Box](https://github.com/rajeevlraman/Virtualization/blob/main/assets/VirtualBox.md) <b><i></b></i>
   - VM Ware is Not in use <b><i></b></i>
