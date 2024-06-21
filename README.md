@@ -18,7 +18,7 @@
   - [Creating a CA (Certificate Authority)](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md)
   - [Creating organizational units](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU)
   - [Creating Users](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU_user)
-  - [Creating Group Policies]()<br><br>
+  - [Creating Group Policies](https://github.com/rajeevlraman/ActiveDirectory/blob/main/assets/Group_policy.md)<br><br>
 - <b>Cloud Services  </b></b>[ Overview ](https://github.com/rajeevlraman/CloudServices/blob/main/README.md)<br>
   - [Microsoft Entra ID (Azure AD) admin centre ](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/Entra_ID.md) <b><i></b></i>
   - [Microsoft MECM](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/MECM.md) <b><i></b></i>
