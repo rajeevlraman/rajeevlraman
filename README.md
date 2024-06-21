@@ -15,7 +15,7 @@
   - [Hyper-V](https://github.com/rajeevlraman/Virtualization/blob/main/assets/Hyper-V.md) <b><i></b></i><br><br>
 - <b>Windows Active Directory </b>[ Overview ](https://github.com/rajeevlraman/ActiveDirectory)<br><br>
   - [Creating a Active Directory](https://github.com/rajeevlraman/ActiveDirectory/#Active-Directory)
-  - [Creating a CA (Certificate Authority)](https://github.com/rajeevlraman/ActiveDirectory/blob/main/ad_ou.md)
+  - [Creating a CA (Certificate Authority)](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md)
   - [Creating organizational units](https://github.com/rajeevlraman/ActiveDirectory/blob/main/ad_ou.md#OU)
   - [Creating Users]()
   - [Creating Group Policies]()<br><br>
