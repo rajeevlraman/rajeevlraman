@@ -1,4 +1,12 @@
-# 👨‍💻 Home-Lab Activities
+# 👨‍💻 Rajeev's Home-Lab Activities
+
+**Hi, I'm Rajeev**
+
+***I am a Technician and a Cybersecurity Enthusiast pursuing a career in Cyber Security.***
+
+Welcome to my home-lab activities! Below is a detailed list of various projects and tools I'm working on to enhance my skills in virtualization, Windows Active Directory, cloud services, SIEM, and IDS/IPS.
+
+---
 
 ## 1. Home-Lab Setup and Management
 This section covers the initial setup and general management of the home-lab environment.
