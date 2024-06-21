@@ -8,26 +8,28 @@
 - <b>Setting up a Home-Lab</b>
   - [Home-Lab Overview](https://github.com/rajeevlraman/Homelab/tree/main)<br>
   - [HomelabV2 Overview](https://github.com/rajeevlraman/Homelabv2/tree/main)<br><br>
-- <b>Virtualization  </b>[ Overview ](https://github.com/rajeevlraman/Virtualization)<br><br>
+- <b>Virtualization  </b>[ Overview ](https://github.com/rajeevlraman/Virtualization/blob/main/README.md)<br><br>
   - [Virtual Box](https://github.com/rajeevlraman/Virtualization/blob/main/assets/VirtualBox.md) <b><i></b></i>
   - VM Ware is Not in use <b><i></b></i>
   - [Proxmox](https://github.com/rajeevlraman/Virtualization/blob/main/assets/Proxmox.md) <b><i></b></i>
   - [Hyper-V](https://github.com/rajeevlraman/Virtualization/blob/main/assets/Hyper-V.md) <b><i></b></i><br><br>
-- <b>Windows Active Directory </b>[ Overview ](https://github.com/rajeevlraman/ActiveDirectory)<br><br>
-  - [Creating a Active Directory](https://github.com/rajeevlraman/ActiveDirectory/#Active-Directory)
+- <b>Windows Active Directory </b>[ Overview ](https://github.com/rajeevlraman/ActiveDirectory/blob/main/README.md)<br><br>
+  - [Creating an Active Directory](https://github.com/rajeevlraman/ActiveDirectory#AD_create)
   - [Creating a CA (Certificate Authority)](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md)
-  - [Creating organizational units](https://github.com/rajeevlraman/ActiveDirectory/blob/main/ad_ou.md#OU)
-  - [Creating Users]()
+  - [Creating organizational units](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU)
+  - [Creating Users](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU_user)
   - [Creating Group Policies]()<br><br>
-- <b>Cloud Services  </b></b>[ Overview ](https://github.com/rajeevlraman/CloudServices)<br>
-  - [Microsoft Azure AD admin centre ](https://camo.githubusercontent.com/3eb9cb729638177c30c357ac03d593b8fcbb555097c4b21834020f57a612c0bb/68747470733a2f2f692e696d6775722e636f6d2f6c56716552646f2e706e67) <b><i></b></i>
-  - [Microsoft Entra admin centre](https://camo.githubusercontent.com/7226367204999fa5bdbe824372de69f124e0d70c067396de494b3d70a3271d39/68747470733a2f2f692e696d6775722e636f6d2f6f46385875544a2e706e67) <b><i></b></i>
+- <b>Cloud Services  </b></b>[ Overview ](https://github.com/rajeevlraman/CloudServices/blob/main/README.md)<br>
+  - [Microsoft Entra ID (Azure AD) admin centre ](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/Entra_ID.md) <b><i></b></i>
+  - [Microsoft MECM](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/MECM.md) <b><i></b></i>
+  - [Microsoft Intune](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/Intune.md)<br>
   - [Microsoft office 365](https://camo.githubusercontent.com/cf337c4e3707c542562f62b6cf7a2a2353fd85b7d65d0354c4a781703cda26ad/68747470733a2f2f692e696d6775722e636f6d2f486443336758722e706e67) <b><i></b></i>
   - [Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67) <b><i></b></i>
-  - [Microsoft Privileged Identity Management ](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security)<br><br>
-- <b>SIEM  </b></b>[ overview ](https://github.com/rajeevlraman/SIEM)<br>
+  - [Microsoft Privileged Identity Management ](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security/blob/main/README.md)<br><br>
+- <b>SIEM  </b></b>[ overview ](https://github.com/rajeevlraman/SIEM/blob/main/README.md)<br>
   - [Security Onion](https://github.com/rajeevlraman/SIEM/blob/main/assets/Securityonion.md)
-  - [Splunk IDS for Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)
+  - [Splunk Integration with Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Splunk_integration.md)
+    - [LAB](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)
   - [SIEM Lab using ELASTIC](https://github.com/rajeevlraman/Elastic-SIEM)
   - [Splunk](https://github.com/rajeevlraman/SIEM/blob/main/assets/SplunkEnterprise.md)<br><br>
 - <b>IDS/IPS  </b>[ Overview ](https://github.com/rajeevlraman/IDS-IPS)<br>
