@@ -1,4 +1,4 @@
-# 👨‍💻 Rajeev's Home-Lab Activities
+# 👨‍💻 Home-Lab Activities
 
 **Hi, I'm Rajeev**
 
