@@ -41,8 +41,8 @@ This section encompasses various cloud services and platforms used within the la
   - **[Microsoft MECM](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/MECM.md)**: Instructions for using Microsoft Endpoint Configuration Manager.
   - **[Microsoft Intune](https://github.com/rajeevlraman/CloudServices/blob/main/Microsoft/assets/Intune.md)**: Guide to managing devices with Microsoft Intune.
   - **[Microsoft office 365](https://camo.githubusercontent.com/cf337c4e3707c542562f62b6cf7a2a2353fd85b7d65d0354c4a781703cda26ad/68747470733a2f2f692e696d6775722e636f6d2f486443336758722e706e67)**: Information on using Office 365 services.
-  - **[Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67)**: Introduction to AWS services.
   - **[Microsoft Privileged Identity Management](https://github.com/rajeevlraman/Microsoft_Enterprise_mobility_and_security/blob/main/README.md)**: Guide on managing privileged identities in Microsoft environments.
+  - **[Amazon Web Services - AWS](https://camo.githubusercontent.com/70b05c458caaf0d1df28c59712f8631b68e005d8a00ce7442f36fc3537b08952/68747470733a2f2f692e696d6775722e636f6d2f61684c4a45724d2e706e67)**: Introduction to AWS services.
 
 ## 5. Security Information and Event Management (SIEM)
 This section includes tools and practical labs for implementing SIEM solutions.
