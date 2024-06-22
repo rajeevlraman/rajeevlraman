@@ -1,6 +1,6 @@
 # 👨‍💻 Home-Lab Activities
 
-**Hi, I'm Rajeev**
+# **Hi, I'm Rajeev**
 
 ***I am a Technician and a Cybersecurity Enthusiast pursuing a career in Cyber Security.***
 
