@@ -58,8 +58,8 @@ This section includes tools and practical labs for implementing SIEM solutions.
 This section details systems used for detecting and preventing network intrusions.
 
 - **[IDS/IPS Overview](https://github.com/rajeevlraman/IDS-IPS)**: General introduction to IDS/IPS concepts and tools.
-  - **[Pfsense](https://camo.githubusercontent.com/c33845ad2fd578c6f7c646972fcfb06674a0311558d867b1929919259bfac2ef/68747470733a2f2f692e696d6775722e636f6d2f334f36586e39312e706e67)**: Guide to setting up and using Pfsense for network security.
-  - **[Snort](https://camo.githubusercontent.com/2dcf8d87b8eccc33adb286621983cc1fa155f30838ab8600a6463c56bc935904/68747470733a2f2f692e696d6775722e636f6d2f455946543351392e706e67)**: Instructions for using Snort for intrusion detection and prevention.
+  - **[Pfsense](https://github.com/rajeevlraman/IDS-IPS/blob/main/assets/Pfsense.md)**: Guide to setting up and using Pfsense for network security.
+  - **[Snort](https://github.com/rajeevlraman/IDS-IPS/blob/main/assets/Snort.md)**: Instructions for using Snort for intrusion detection and prevention.
 
 
 
