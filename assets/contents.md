@@ -6,7 +6,25 @@
 
 Welcome to my home-lab activities! Below is a detailed list of various projects and tools I'm working on to enhance my skills in virtualization, Windows Active Directory, cloud services, SIEM, and IDS/IPS.
 
----
+# Contents
+
+## Repositories
+
+- HomelabV2
+- ActiveDirectory
+- rajeevlraman
+- AD_splunk_monitoring
+- SIEM
+- CloudServices
+- Virtualization
+- rajeevlraman.github.io
+- Homelab
+- IDS-IPS
+- Microsoft_Enterprise_mobility_and_security
+- Elastic-SIEM
+- Ansible
+- securedasher
+
 
 ## 1. Home-Lab Setup and Management
 This section covers the initial setup and general management of the home-lab environment.
