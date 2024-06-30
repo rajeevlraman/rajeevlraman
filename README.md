@@ -32,6 +32,7 @@ This section details the setup and management of Windows Active Directory servic
   - **[Creating organizational units](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU)**: Guide to setting up organizational units.
   - **[Creating Users](https://github.com/rajeevlraman/ActiveDirectory/blob/main/AD_CA.md#OU_user)**: Process for creating user accounts.
   - **[Creating Group Policies](https://github.com/rajeevlraman/ActiveDirectory/blob/main/assets/Group_policy.md)**: Instructions for creating and managing group policies.
+  - **[Creating Conditional Access](https://github.com/rajeevlraman/ActiveDirectory/blob/main/assets/conditional_acess.md)**: Instructions for creating and managing group policies.
 
 ## 4. Cloud Services
 This section encompasses various cloud services and platforms used within the lab.
