@@ -39,6 +39,8 @@
         - images_GP
         - images_OU
         - group_policy.md
+        - Tenants.md
+        - Conditional_access.md
     - AD_CA.md
     - README.md
     - Security_Onion.md
